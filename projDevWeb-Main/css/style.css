@@ -234,9 +234,9 @@ a{
     font-style: italic;
     
 }
-a:hover{
-    color: #25c997;
-    text-decoration: underline;
+button:hover{
+    background: #ffffff;
+    color:#25c997;
     transition: all 0.3s ease 0s;
 }
 

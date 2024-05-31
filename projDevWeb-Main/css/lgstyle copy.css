@@ -125,7 +125,8 @@ button {
 }
 
 button:hover {
-    background: #25c997;
+    background: #ffffff;
+    color:#25c997;
 }
 
 form .text h3 {

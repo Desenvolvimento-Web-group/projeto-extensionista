@@ -15,5 +15,5 @@ document.getElementById('btnlogin').onclick = function () {
         return
     }
     console.log("Pressed")
-    window.location.href = 'areamedico.html'
+    window.location.href = 'busca.html'
 };

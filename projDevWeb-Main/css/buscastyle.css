@@ -120,6 +120,8 @@ div::-webkit-scrollbar-thumb {
     justify-content:space-between;
     align-items: center;
     margin-bottom: 30px;
+    height: 20px;
+    margin-top: 10px;
 }
 .info{
     margin-top: 10px;
